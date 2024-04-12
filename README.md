@@ -52,10 +52,15 @@ No situation involving data duplication with all the relevant settings for a cus
 Find out the total transaction, total Profit, total Sales, total Quantity, total Discount.
 
 - **Identify the top 10 States by Sales**
+  
 - **What are the Category-wise total profits and total sales?**
+  
 - **Identify Discount & Quantity by Sales**
+  
 - **Identify MOM % change in Profit**
+  
 - **What region generates the highest sales and profits?**
+  
 - **Identify Discount & Quantity by Segment**
 
 ### Results & Findings
@@ -66,16 +71,24 @@ Calculate Percentage of Profit (percentage of profit=profit/sales) ( 12% is the 
 ### conclusion
 
 **conclusions and future recommendations for the success of our Superstore:**
+
 - Q4 was our most profitable quarter overall for the entire year.
+  
 - The West and East are the two regions with the best performance. The Central region generates lower earnings than the South region.
+  
 - Our biggest profits and active markets are California, New York, and Washington, particularly when it comes to state-level sales. We must give them greater attention. Three of our least profitable industries include Pennsylvania, Ohio, and Texas. Given that sales in Texas and Pennsylvania are in the $100,000s yet cannot be turned into profits.
-- In terms of profitability, Office Supplies and Technology rank highest out of the three categories. Plus, their profit margins make them appear like a wise investment.Although they still turn a profit, furniture does not sell well overall. 
+  
+- In terms of profitability, Office Supplies and Technology rank highest out of the three categories. Plus, their profit margins make them appear like a wise investment.Although they still turn a profit, furniture does not sell well overall.
+  
 - California and New York yield the highest profits when it comes to technology and office supplies. For higher earnings, we must make these products more widely available in these states. However, our largest losses are in the areas of office supplies in Texas, technology in Ohio, and furniture in Texas and Illinois, so we must significantly cut down on these kinds of goods there.
+  
 - In terms of regional subcategories, we always need to keep binders in the West and copiers in the East and Accessories in the West on hand, as well as advertise them to increase profit.
 When it comes to state-specific subcategories, New York is a great place for machines, phones, and binders. Accessories and binders come next in California and Michigan, respectively, therefore we must highlight those products in those markets to grow our business. Our largest losses come from binders in Texas and Illinois that have machines in Ohio that are completely unprofitable. We must reduce the amount of stock in those areas.
+
 -The consumer segment generates the highest profit out of the three, followed by the corporate and home office segments.
 
+![Sales Dashboard](https://github.com/nansa93/superstore-sales-Analysis/assets/166003206/16b358da-1c55-459e-a209-0a069a732265)
 
 
-
+![Sales Analysis 1](https://github.com/nansa93/superstore-sales-Analysis/assets/166003206/dfb0de08-afde-4daa-b504-03d5d02884bc)
 
